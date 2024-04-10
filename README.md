@@ -54,15 +54,6 @@ This is my final sprint in Coding Academy, developed with React, Redux, MongoDB,
 * *Real-time Updates*: Stay informed with instant task detail updates, ensuring teams are on the same page.
 <hr />
 
-
-## <a id="showcase" /> Showcase
-
-<img width="600px" src="https://res.cloudinary.com/dkvliixzt/image/upload/v1705848842/Screenshot_2024-01-21_165252_en8pzv.png" />
-<img width="600px"  src="https://res.cloudinary.com/dkvliixzt/image/upload/v1705848958/Screenshot_2024-01-21_165546_v0agc0.png" />
-<img width="600px"  src="https://res.cloudinary.com/dkvliixzt/image/upload/v1705849006/Screenshot_2024-01-21_165637_jwxpe7.png" />
-<hr />
-
-
 ### Authors
 
 #### Eden Rize
